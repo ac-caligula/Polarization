@@ -1,0 +1,40 @@
+Session date:
+2021-10-04 15:26:13.966425
+This session is using:
+['IPython             \t7.19.0', 'PIL                 \t8.0.1', 'argparse            \t1.1', 'backcall            \t0.2.0', 'bottleneck          \t1.3.2', 'cffi                \t1.14.3', 'colorama            \t0.4.4', 'csv                 \t1.0', 'ctypes              \t1.1.0', 'cycler              \t0.10.0', 'dateutil            \t2.8.1', 'decimal             \t1.70', 'decorator           \t4.4.2', 'distutils           \t3.8.5', 'ipykernel           \t5.3.4', 'ipython_genutils    \t0.2.0', 'ipywidgets          \t7.5.1', 'jedi                \t0.17.1', 'joblib              \t1.0.1', 'json                \t2.0.9', 'jupyter_client      \t6.1.7', 'jupyter_core        \t4.6.3', 'kiwisolver          \t1.3.1', 'logging             \t0.5.1.2', 'matplotlib          \t3.4.2', 'numpy               \t1.20.2', 'pandas              \t1.2.4', 'parso               \t0.7.0', 'pexpect             \t4.8.0', 'pickleshare         \t0.7.5', 'platform            \t1.0.8', 'prompt_toolkit      \t3.0.8', 'psutil              \t5.7.2', 'ptyprocess          \t0.6.0', 'py_session          \t0.1.1', 'pygments            \t2.7.2', 'pyparsing           \t2.4.7', 'pytz                \t2020.1', 're                  \t2.2.1', 'scipy               \t1.6.3', 'seaborn             \t0.11.1', 'six                 \t1.15.0', 'sklearn             \t0.24.2', 'statsmodels         \t0.12.0', 'traitlets           \t5.0.5', 'wcwidth             \t0.2.5', 'zlib                \t1.0', 'zmq                 \t19.0.2']
+__________________________________________________________- Physical Parameters -__________________________________________________________
+Geometry = Off_Axis 
+alpha = 0.75 
+E = 6.2e+49 
+n = 0.00028 
+alpha_s = 3.0
+z = 0.022
+t:
+[1.00000000e-06 1.57738666e-06 2.48814867e-06 3.92477252e-06
+ 6.19088381e-06 9.76541753e-06 1.54038393e-05 2.42978107e-05
+ 3.83270424e-05 6.04565653e-05 9.53633796e-05 1.50424923e-04
+ 2.37278266e-04 3.74279572e-04 5.90383603e-04 9.31263219e-04
+ 1.46896218e-03 2.31712134e-03 3.65499629e-03 5.76534238e-03
+ 9.09417416e-03 1.43450290e-02 2.26276574e-02 3.56925648e-02
+ 5.63009756e-02 8.88084078e-02 1.40085198e-01 2.20968522e-01
+ 3.48552798e-01 5.49802534e-01 8.67251182e-01 1.36799044e+00
+ 2.15784988e+00 3.40376361e+00 5.36905131e+00 8.46906990e+00
+ 1.33589979e+01 2.10723050e+01 3.32391728e+01 5.24310277e+01
+ 8.27040037e+01 1.30456192e+02 2.05779857e+02 3.24594401e+02
+ 5.12010878e+02 8.07639127e+02 1.27395918e+03 2.00952622e+03
+ 3.16979985e+03 5.00000000e+03]
+t_b:
+6.294060142286296e-19
+theta:
+[25.7        25.89770688 26.09693469 26.29769513 26.5       ]
+theta_j = 7.450000000000001
+Ordered Polarization calculation time is: 
+ --- 0:01:23.355875 --- 
+Perpendicular Polarization calculation time is: 
+ --- 0:00:21.162456 --- 
+Parallel Polarization calculation time is: 
+ --- 0:00:00.707004 --- 
+Toroidal Polarization calculation time is: 
+ --- 0:05:20.582720 --- 
+Total Execution time is: 
+ --- 0:07:05.808055 --- 
